@@ -1,7 +1,9 @@
 This repository includes the dataset, and the data analysis code accompanying the submitted paper, titled:
 **Characterizing Usability Issue Discussions in Open Source Software Projects.**
 
+
 **The dataset**
+
 The purpose of these artifacts is to identify the impacts of usability and its heuristics for user interface design (10 Nielsen Heuristics) in issue discussions of five popular OSS projects hosted on GitHub: three data science notebook projects (Jupyter Lab, Google Colab, and CoCalc) and two code editor projects (VSCode and Atom) GitHub repositories.
 
 First, we manually labeled sampled data and identified usability issues from non-usability issues. Then, we investigated the type of usability aspect targeted in each usability issue based on ten well-known Nielsen heuristics. In this regard, we have following main dataset:
